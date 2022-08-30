@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI34.Turchyn.Laba3","l":"cookstove"},{"p":"KI34.Turchyn.Laba3","l":"CookstoveApp"}];updateSearchResults();
